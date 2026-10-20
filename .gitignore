@@ -1,0 +1,21 @@
+<pre><code># Credenciais
+.env
+
+# Ambiente virtual Python
+.venv/
+
+# Cache Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Arquivos do IntelliJ
+.idea/
+
+# Relatórios gerados
+reports/*
+!reports/.gitkeep
+
+# Pacote temporário de implantação
+deployment/
+</code></pre>
